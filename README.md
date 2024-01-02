@@ -1,4 +1,4 @@
-## Exampel Project
+## Example Project
 
 #### 1. 내용 기반 영화 추천 시스템
 - Blog : [Content-Based Movie Recommendation System](https://oneul-hyeon.tistory.com/493)
